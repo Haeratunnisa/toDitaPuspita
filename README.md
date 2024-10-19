@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://toDitaPuspita)
+[Demo](https://toDitaPuspita.github.io/)
 
 ## 🚀 How to Use
 
